@@ -8,3 +8,4 @@ d = dict()
 c = list()
 
 print("Nurmuhammad")
+print("Davletov")
