@@ -6,3 +6,5 @@ b = '5'
 d = dict()
 
 c = list()
+
+print("Nurmuhammad")
